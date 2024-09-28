@@ -46,3 +46,4 @@ def bad_fortune_teller():
 
 
 bad_fortune_teller()
+#This is a call for the bad teller function ALSO THE GIT WORKS NOW
